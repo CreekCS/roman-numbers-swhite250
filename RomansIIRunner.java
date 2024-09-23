@@ -1,8 +1,9 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - Sophia White
 
-public class RomansRunner
+public class RomansIIRunner
+// the class name was incorrect because it wasn't the same as the file, I had to change it from 'RomansRunner' to 'RomansIIRunner'
 {
 	public static void main( String args[] )
 	{
